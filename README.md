@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Tamanna Chopra</h1>
 <h3 align="center">I'm a dedicated cybersecurity engineer from India</h3>
-<img align="right" alt="hacking with="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fwallpaper%2Fcomments%2Fppta7d%2F1920x1080_cat_hacker%2F&psig=AOvVaw1hAnJHQvKQauxtB_CJWwqU&ust=1730221022416000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLi4gfDFsYkDFQAAAAAdAAAAABAE" >
+![download (1)](https://github.com/user-attachments/assets/40e414aa-0c14-4bb3-b1a3-e87fa29b8949)" 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hacker8752&label=Profile%20views&color=0e75b6&style=flat" alt="hacker8752" /> </p>
 
