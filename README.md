@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Tamanna Chopra</h1>
 <h3 align="center">I'm a dedicated cybersecurity engineer from India</h3>
-<img align="right" width="400" src="https://f.hubspotusercontent40.net/hubfs/4650993/New_Avast_Academy/Hackers/Hacker-Thumb-a1.png" alt="hacking">
+<img align="right" width="400" src="https://mpower.stmaryscollege.in/wp-content/uploads/2021/07/anti-hacking.gif" alt="hacking">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hacker8752&label=Profile%20views&color=0e75b6&style=flat" alt="hacker8752" /> </p>
 
