@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Tamanna Chopra</h1>
 <h3 align="center">I'm a dedicated cybersecurity engineer from India</h3>
-<img align="right" width="400" src="download(1).jpeg" alt="hacking" >
+<img align="right" width="100" src="./download(1).jpeg" alt="hacking" height='100'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hacker8752&label=Profile%20views&color=0e75b6&style=flat" alt="hacker8752" /> </p>
 
